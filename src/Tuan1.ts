@@ -244,7 +244,7 @@ class ProtectedAnimal {
   }
   class ProtectedDog extends ProtectedAnimal {
     public bark(): void { 
-      process.stdout.write("[Bài 28] Protected method called: ");
+        console.log("[Bài 28] Protected method called: ");
       this.makeSound(); 
     }
   }
