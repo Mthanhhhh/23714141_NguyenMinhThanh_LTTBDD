@@ -1,4 +1,3 @@
-Markdown
 ```text
        _     _
       / \   / \
